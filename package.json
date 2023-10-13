@@ -1,0 +1,19 @@
+{
+  "name": "picture-in-picture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newVoid2/picture-in-picture.git"
+  },
+  "author": "Richard Kerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newVoid2/picture-in-picture/issues"
+  },
+  "homepage": "https://github.com/newVoid2/picture-in-picture#readme"
+}
